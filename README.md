@@ -1,12 +1,4 @@
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=blalyasar" alt="blalyasar" /> 
-    <img src="https://img.shields.io/github/followers/blalyasar?style=social" />
-    <img src="https://img.shields.io/github/stars/blalyasar/blalyasar?style=social" />
-    <img src="https://img.shields.io/github/watchers/blalyasar/blalyasar?style=social" />
-    <img src="https://img.shields.io/github/size/blalyasar/blalyasar/README.md" />
-    <img src="https://img.shields.io/github/last-commit/blalyasar/blalyasar" />
-    <img src="https://img.shields.io/github/contributors/blalyasar/blalyasar" />   
-</p>
+ 
 <h3 align="left">Hi 👋, I'm Bilal Yasar</h1>
 
 ## 📖 About Me
@@ -32,9 +24,6 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/blalyasar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <a href="https://github.com/blalyasar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="blalyasar's GitHub Stats" />
