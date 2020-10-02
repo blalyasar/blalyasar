@@ -26,7 +26,7 @@
 <p align="left">
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css alt="c++" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" alt="c++" width="40" height="40"/> 
 
 </p>
 
