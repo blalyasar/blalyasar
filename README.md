@@ -18,7 +18,7 @@
 <p align="left">
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" alt="c++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
 
 </p>
 
