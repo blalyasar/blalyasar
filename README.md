@@ -1,5 +1,5 @@
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=rapter1990" alt="rapter1990" /> 
+    <img src="https://komarev.com/ghpvc/?username=blalyasar" alt="blalyasar" /> 
     <img src="https://img.shields.io/github/followers/blalyasar?style=social" />
     <img src="https://img.shields.io/github/stars/blalyasar/blalyasar?style=social" />
     <img src="https://img.shields.io/github/watchers/blalyasar/blalyasar?style=social" />
@@ -26,7 +26,7 @@
 <p align="left">
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css alt="c++" width="40" height="40"/> 
 
 </p>
 
@@ -36,6 +36,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rapter1990">
+<a href="https://github.com/blalyasar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="blalyasar's GitHub Stats" />
 </a>
