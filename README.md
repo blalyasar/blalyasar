@@ -27,6 +27,9 @@
   
   <img   alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40" />
   
+   <img   alt="fedoralinux"   src="https://avatars3.githubusercontent.com/u/38725477?s=200&v=4" width="40" height="40" />
+   
+   
 <img  alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px" height="40"/>
 
 </p>
