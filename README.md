@@ -40,13 +40,10 @@
 
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&hide=html,css,jupyter%20notebook,ruby&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 ## &#x1f4c8; My GitHub Stats
-
-
-<a href="https://github.com/blalyasar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="blalyasar's GitHub Stats" />
-</a>
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&count_private=true)
 
