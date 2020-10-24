@@ -19,10 +19,15 @@
 
 
 ## 📚 Language and Tools
+## 📚 Language
 <p align="left">
-
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" width="40" height="40"/> 
+ </p>
+ 
+ 
+ ## Frameworks
+<p align="left">
   <img src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4" alt="opencv" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/160px-Python_and_Qt.svg.png" alt="pyqt" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="qt" width="40" height="40"/> 
@@ -39,7 +44,7 @@
 </p>
 
 
-
+## 📚 Data Visualization
 <p align="left">
    <img   alt="matplotlib"   src="https://avatars0.githubusercontent.com/u/215947?s=200&v=4" width="40" height="40" />
   <img  alt="seaborn" src="https://raw.githubusercontent.com/mwaskom/seaborn/211cabb09bb9228635bdd80f74f7591d36d7b2a7/doc/_static/logo-wide-lightbg.svg" width="40" height="40">
