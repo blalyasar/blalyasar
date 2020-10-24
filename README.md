@@ -22,7 +22,6 @@
    <img   alt="fedoralinux"   src="https://avatars3.githubusercontent.com/u/38725477?s=200&v=4" width="40" height="40" />
  </p>
 
-## 📚 Language and Tools
 ## 📚 Language
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/> 
