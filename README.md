@@ -16,7 +16,11 @@
 <p align="left">
  <a href="https://medium.com/@blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="blalyasar" height="30" width="30"></a>&nbsp;&nbsp;
  </p>
-
+## OS
+<p align="left">
+   <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40">
+   <img   alt="fedoralinux"   src="https://avatars3.githubusercontent.com/u/38725477?s=200&v=4" width="40" height="40" />
+ </p>
 
 ## 📚 Language and Tools
 ## 📚 Language
@@ -33,16 +37,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="qt" width="40" height="40"/> 
   
   <img   alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40" />
-  <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40">
-   <img   alt="fedoralinux"   src="https://avatars3.githubusercontent.com/u/38725477?s=200&v=4" width="40" height="40" />
-   
-   
-   
-<img  alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px" height="40"/>
-<img  alt="Jupyter Interactive Notebook "  src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" width="40px" height="40"/>
 
+   
 </p>
-
 
 ## 📚 Data Visualization
 <p align="left">
@@ -51,7 +48,11 @@
    <img   alt="plotly"   src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" width="40" height="40" />
  </p>
 
-
+ ## Editor İde
+ <p align="left">
+ <img  alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px" height="40"/>
+<img  alt="Jupyter Interactive Notebook "  src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" width="40px" height="40"/>
+ </p>
 
 
 
