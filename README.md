@@ -40,6 +40,14 @@
 
 
 
+<p align="left">
+   <img   alt="matplotlib"   src="https://avatars0.githubusercontent.com/u/215947?s=200&v=4" width="40" height="40" />
+  <img  alt="seaborn" src="https://raw.githubusercontent.com/mwaskom/seaborn/211cabb09bb9228635bdd80f74f7591d36d7b2a7/doc/_static/logo-wide-lightbg.svg" width="40" height="40">
+   <img   alt="plotly"   src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" width="40" height="40" />
+ /p>
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&hide=html,css,jupyter%20notebook,ruby&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
