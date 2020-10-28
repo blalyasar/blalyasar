@@ -16,17 +16,17 @@
 <p align="left">
  <a href="https://medium.com/@blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="blalyasar" height="30" width="30"></a>&nbsp;&nbsp;
  </p>
-## ## My OS
-<p align="left">
-   <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40">
-   <img   alt="fedoralinux"   src="https://avatars3.githubusercontent.com/u/38725477?s=200&v=4" width="40" height="40" />
- </p>
 
 ## 📚 Language and  ## Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" width="40" height="40"/> 
 
+## My OS
+   <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40">
+   <img   alt="fedoralinux"   src="https://avatars3.githubusercontent.com/u/38725477?s=200&v=4" width="40" height="40" />
+   
+   
   <img src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4" alt="opencv" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/160px-Python_and_Qt.svg.png" alt="pyqt" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="qt" width="40" height="40"/> 
