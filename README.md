@@ -4,7 +4,7 @@
  <a href="https://twitter.com/blalyasar"> <img  alt="codeSTACKr | Twitter" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
 
-  <a href="https://www.kaggle.com/blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="blal-yasar-kaggle" height="30" width="30"></a>&nbsp;&nbsp;<
+  <a href="https://www.kaggle.com/blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="blal-yasar-kaggle" height="30" width="30"></a>&nbsp;&nbsp;
   
 <a href="https://medium.com/@blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="blalyasar" height="30" width="30"></a>&nbsp;&nbsp;
 </p>
