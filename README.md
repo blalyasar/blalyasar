@@ -1,9 +1,9 @@
  
 <h3 align="left">Hi 👋, I'm Bilal Yasar... Connect with me AND BLOG </h3>
 
- <a href="https://twitter.com/blalyasar"> <img  alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <a href="https://twitter.com/blalyasar"> <img  alt="codeSTACKr | Twitter" height="20" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
-  <a href="https://www.linkedin.com/in/bilal-ya%C5%9Far-7492aa141/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shttps://www.linkedin.com/in/bilal-ya%C5%9Far-7492aa141/" height="30" width="30"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bilal-ya%C5%9Far-7492aa141/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shttps://www.linkedin.com/in/bilal-ya%C5%9Far-7492aa141/" height="20" width="20"></a>&nbsp;&nbsp;
   
   <a href="https://www.kaggle.com/blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="blal-yasar-kaggle" height="30" width="30"></a>&nbsp;&nbsp;
   
