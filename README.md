@@ -7,7 +7,7 @@
 <a href="https://medium.com/@blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="blalyasar" height="30" width="30"></a>&nbsp;&nbsp;
 </p>
 
-### I’m currently working on Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQL, Matplotlib, Seaborn, PLotly
+### I’m currently working on Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQL, Pandas, Matplotlib, Seaborn, PLotly
  <p align="left">
  <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
 <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40">
