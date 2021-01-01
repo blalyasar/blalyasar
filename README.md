@@ -6,7 +6,7 @@
   <a href="https://www.kaggle.com/blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="blal-yasar-kaggle" height="30" width="30"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="blalyasar" height="30" width="30"></a>&nbsp;&nbsp;
 </p>
-I’m currently working on
+### I’m currently working on Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQL, Matplotlib, Seaborn, PLotly
  <p align="left">
  <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
 <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40">
@@ -21,7 +21,7 @@ I’m currently working on
 <img alt="plotly" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" width="40" height="40" />
 </p>
 
-## I’m currently learning CPP, Flask, Tensorflow, Folium, BashProgramming
+### I’m currently learning CPP, Flask, Tensorflow, Folium, BashProgramming
 <p align="left">
 <img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="40" height="40"/> 
 <img alt="Flask"  src="https://raw.githubusercontent.com/pallets/flask/master/docs/_static/flask-logo.png" width="40px" height="40"/>
@@ -30,7 +30,7 @@ I’m currently working on
 <img alt="BashProgramming"  src="https://avatars0.githubusercontent.com/u/11575812?s=200&v=4" width="40" height="40"/>
 </p>
 
-## 📚 IDE, EDITOR
+### 📚 Ide, Editor
 <p align="left">
  <img  alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px" height="40"/>
 <img  alt="Jupyter Interactive Notebook "  src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" width="40px" height="40"/>
