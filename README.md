@@ -21,20 +21,20 @@ I’m currently working on
 <img alt="plotly" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" width="40" height="40" />
 </p>
 
-## I’m currently learning CPP, Tensorflow, Folium, Flask
+## I’m currently learning CPP, Flask, Tensorflow, Folium, BashProgramming
 <p align="left">
 <img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="40" height="40"/> 
 <img alt="Flask"  src="https://raw.githubusercontent.com/pallets/flask/master/docs/_static/flask-logo.png" width="40px" height="40"/>
 <img alt="Tensorflow"  src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" width="40px" height="40"/>
 <img alt="folium" src="https://camo.githubusercontent.com/d7a1f81a2ee7576ab86720d9135ab3c915550e3945a7859f1c0300ab22ac1cec/687474703a2f2f707974686f6e2d76697375616c697a6174696f6e2e6769746875622e696f2f666f6c69756d2f5f696d616765732f666f6c69756d5f6c6f676f2e6a7067" width="40" height="40" "Folium" />
-<img alt="BashProgramming"  src=" https://avatars0.githubusercontent.com/u/11575812?s=200&v=4" width="40" height="40"/>
+<img alt="BashProgramming"  src="https://avatars0.githubusercontent.com/u/11575812?s=200&v=4" width="40" height="40"/>
 </p>
 
-## 📚 IDE,EDITOR
-   
+## 📚 IDE, EDITOR
+<p align="left">
  <img  alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px" height="40"/>
 <img  alt="Jupyter Interactive Notebook "  src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" width="40px" height="40"/>
-
+</p>
 
 
 
