@@ -7,7 +7,7 @@
 <a href="https://medium.com/@blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="blalyasar" height="30" width="30"></a>&nbsp;&nbsp;
 </p>
 
-### I’m currently working on Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQL, Pandas, Matplotlib, Seaborn, PLotly
+### I’m currently working on Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQLite, Pandas, Matplotlib, Seaborn, PLotly
  <p align="left">
  <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
 <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40">
@@ -16,7 +16,9 @@
 <img alt="pyqt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/160px-Python_and_Qt.svg.png" width="40" height="40"/> 
 <img alt="qt" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" width="40" height="40"/> 
 <img alt="qml" src="https://avatars2.githubusercontent.com/u/8034039?v=3&s=400.png"  width="40" height="40"/>
-<img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40" />
+<a href="https://www.sqlite.org/" rel="nofollow">
+<img alt="SQLite" src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" width="40" height="40" />
+ </a>
 <img alt="pandas" src="https://avatars1.githubusercontent.com/u/21206976?s=200&v=4" width="40" height="40" />
 <img alt="matplotlib" src="https://avatars0.githubusercontent.com/u/215947?s=200&v=4" width="40" height="40" />
 <img  alt="seaborn" src="https://raw.githubusercontent.com/mwaskom/seaborn/211cabb09bb9228635bdd80f74f7591d36d7b2a7/doc/_static/logo-wide-lightbg.svg" width="40" height="40">
