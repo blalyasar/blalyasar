@@ -114,6 +114,7 @@
 ![stm32](https://img.shields.io/badge/stm32-1b8bb4?style=for-the-badge&logo=stm32&Color=white)-![raspberrypi](https://img.shields.io/badge/raspberrypi-1b8bb4?style=for-the-badge&logo=raspberrypi&Color=white)-![pic18f45k](https://img.shields.io/badge/pic18f45k-1b8bb4?style=for-the-badge&logo=pic18f45k&Color=white)_![arduino](https://img.shields.io/badge/arduino-1b8bb4?style=for-the-badge&logo=&Color=white)
 
 Başlangıç Düzeyi Kullanılan Programlar
+
 ![proteus](https://img.shields.io/badge/Proteus-1b8bb4?style=for-the-badge&logo=proteus&Color=white)![AUTOCAD](https://img.shields.io/badge/AUTOCAD-1b8bb4?style=for-the-badge&logo=AUTOCAD&Color=white)![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-1b8bb4?style=for-the-badge&logo=SOLIDWORKS&Color=white)![ANSYS](https://img.shields.io/badge/ANSYS-1b8bb4?style=for-the-badge&logo=ANSYS&Color=white)![MİKROC](https://img.shields.io/badge/mikroc-1b8bb4?style=for-the-badge&logo=mikroc&Color=white)![fusion360](https://img.shields.io/badge/fusion360-1b8bb4?style=for-the-badge&logo=fusion360&Color=white)
  
   </details>
