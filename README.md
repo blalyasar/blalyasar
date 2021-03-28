@@ -2,8 +2,9 @@
  
  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi 👋, I'm Bilal Yasar...</h1>
    <p align="center">
-    <a href="https://github.com/eyupcelikk"><img src="https://visitor-badge.laobi.icu/badge?page_id=blalyasar" alt="VIEW"></a>
+    <a href="https://github.com/blalyasar"><img src="https://gpvc.arturio.dev/blalyasar" alt="VIEW"></a>
   </p>
+ 
   
 <h3 align="left">  
  blalyasar@gmail.com </h3>
@@ -83,4 +84,4 @@
 
 [//]: # "![GitHub stats](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&count_private=true)"
 
-![Profile views](https://gpvc.arturio.dev/blalyasar)  
+
