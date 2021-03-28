@@ -72,16 +72,6 @@
 
 
 
- 
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&hide=html,css,jupyter%20notebook,ruby&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [//]: # "![GitHub stats](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&count_private=true)"
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
@@ -90,6 +80,8 @@
     </summary>
 
   ![blalyasar'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&theme=dark)
+  ![blalyasar'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&hide=html,css,jupyter%20notebook,ruby&layout=compact&langs_count=10)
+  
   ![blalyasar'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&layout=compact&theme=dark)
 
   </details>
