@@ -20,6 +20,8 @@
 <img  alt="fedoralinux" src="https://avatars3.githubusercontent.com/u/38725477?s=200&v=4" width="40" height="40" /></a>
  <a href="https://opencv.org/" rel="nofollow">
 <img alt="opencv" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"  width="40" height="40"/> </a>
+ 
+ 
 <a href="https://www.riverbankcomputing.com/software/pyqt/" rel="nofollow">
 <img alt="pyqt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/160px-Python_and_Qt.svg.png" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" rel="nofollow">
