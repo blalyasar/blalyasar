@@ -83,5 +83,14 @@
 
 
 [//]: # "![GitHub stats](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&count_private=true)"
+  <details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>GitHub statistics</b>
+      <i>(Show !)</i>
+    </summary>
 
+  ![blalyasar'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&theme=dark)
+  ![blalyasar'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&layout=compact&theme=dark)
+
+  </details>
 
