@@ -80,7 +80,10 @@
     </summary>
 
   ![blalyasar'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&theme=dark)
-  ![blalyasar'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&hide=html,css,jupyter%20notebook,ruby&layout=compact&langs_count=10)
+  
+  
+  ![blalyasar'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&hide=html,css,jupyter%20notebook,ruby&layout=compact&&theme=dark&langs_count=10)
+  
   
   ![blalyasar'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&layout=compact&theme=dark)
 
