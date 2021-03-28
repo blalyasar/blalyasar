@@ -1,5 +1,7 @@
  
-<h3 align="left">Hi 👋, I'm Bilal Yasar... How to reach me ---> blalyasar@gmail.com </h3>
+<h3 align="left">Hi 👋, I'm Bilal Yasar... 
+ 
+ How to reach me ---> blalyasar@gmail.com </h3>
 
 <p align="left">
  <a href="https://twitter.com/blalyasar"> <img  alt="codeSTACKr | Twitter" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
