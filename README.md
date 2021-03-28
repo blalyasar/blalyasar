@@ -91,3 +91,26 @@
 
   </details>
 
+  <details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>İlgi Alanlarım</b>
+      <i>(Genişletmek İçin Tıklayın !)</i>
+    </summary>
+
+
+  ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-![C](https://img.shields.io/badge/C-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![fedora](https://img.shields.io/badge/fedora-1b8bb4?style=for-the-badge&logo=fedora&logoColor=white)-![qml](https://img.shields.io/badge/qml-1b8bb4?style=for-the-badge&logo=qt&logoColor=white)-![Bashscript](https://img.shields.io/badge/Bashscript-1b8bb4?style=for-the-badge&logo=Bashscript&logoColor=white)
+  
+  ![pyqt](https://img.shields.io/badge/pyqt-1b8bb4?style=for-the-badge&logo=pyqt&logoColor=white)-![pyside](https://img.shields.io/badge/pyside-1b8bb4?style=for-the-badge&logo=pyside&logoColor=white)-![qt](https://img.shields.io/badge/qt-1b8bb4?style=for-the-badge&logo=qt&Color=white)
+
+![scipy](https://img.shields.io/badge/scipy-1b8bb4?style=for-the-badge&logo=scipy&logoColor=white)-![numpy](https://img.shields.io/badge/numpy-1b8bb4?style=for-the-badge&logo=numpy&logoColor=white)-![pandas](https://img.shields.io/badge/pandas-1b8bb4?style=for-the-badge&logo=pandas&logoColor=white)-![searborn](https://img.shields.io/badge/seaborn-1b8bb4?style=for-the-badge&logo=seaborn&logoColor=white)-![plotly](https://img.shields.io/badge/plotly-1b8bb4?style=for-the-badge&logo=plotly&logoColor=white)-![scikitlearn](https://img.shields.io/badge/scikitlearn-1b8bb4?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  
+![opencv](https://img.shields.io/badge/opencv-1b8bb4?style=for-the-badge&logo=opencv&logoColor=white)-![tensorflow](https://img.shields.io/badge/tensorflow-1b8bb4?style=for-the-badge&logo=tensorflow&logoColor=white)-![keras](https://img.shields.io/badge/keras-1b8bb4?style=for-the-badge&logo=keras&logoColor=white)
+
+![flask](https://img.shields.io/badge/flask-1b8bb4?style=for-the-badge&logo=flask&logoColor=white)-![folium](https://img.shields.io/badge/folium-1b8bb4?style=for-the-badge&logo=folium&logoColor=white)
+ 
+ ![sqlite](https://img.shields.io/badge/sqlite-1b8bb4?style=for-the-badge&logo=sqlite&logoColor=white)-![postgresql](https://img.shields.io/badge/postgresql-1b8bb4?style=for-the-badge&logo=postgresql&logoColor=white)-![mysql](https://img.shields.io/badge/mysql-1b8bb4?style=for-the-badge&logo=mysql&logoColor=white)-![cloudera-hive](https://img.shields.io/badge/clouderahive-1b8bb4?style=for-the-badge&logo=hive&Color=white)
+
+![stm32](https://img.shields.io/badge/stm32-1b8bb4?style=for-the-badge&logo=stm32&Color=white)-![raspberrypi](https://img.shields.io/badge/raspberrypi-1b8bb4?style=for-the-badge&logo=raspberrypi&Color=white)-![pic18f45k](https://img.shields.io/badge/pic18f45k-1b8bb4?style=for-the-badge&logo=pic18f45k&Color=white)_![arduino](https://img.shields.io/badge/arduino-1b8bb4?style=for-the-badge&logo=&Color=white)
+
+ 
+  </details>
