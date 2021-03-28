@@ -7,7 +7,8 @@
 <a href="https://medium.com/@blalyasar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="blalyasar" height="30" width="30"></a>&nbsp;&nbsp;
 </p>
 
-##### I’m currently working on   [//]: # (This may be the most platform independent comment)  ( Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQLite, Pandas, Matplotlib, Seaborn, PLotly) 
+##### I’m currently working on     ( Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQLite, Pandas, Matplotlib, Seaborn, PLotly) 
+[//]: # "Comment"
  <p align="left">
 <a href="https://www.python.org/" rel="nofollow"> 
 <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/></a>
