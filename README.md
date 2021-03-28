@@ -81,6 +81,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&hide=html,css,jupyter%20notebook,ruby&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&count_private=true)
+[//]: # "![GitHub stats](https://github-readme-stats.vercel.app/api?username=blalyasar&show_icons=true&count_private=true)"
 
 ![Profile views](https://gpvc.arturio.dev/blalyasar)  
