@@ -1,5 +1,3 @@
- 
- 
  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi 👋, I'm Bilal</h1>
  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Our Problems and Solutions</h1>
   <p align="center"
