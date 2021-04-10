@@ -7,7 +7,7 @@
   </p>
 
    <p align="center"
-    <a href="https://github.com/blalyasar"><img src="https://gpvc.arturio.dev/blalyasar" alt="VIEW"></a>
+    <img src="https://gpvc.arturio.dev/blalyasar" alt="VIEW"> 
   </p>
  
   
