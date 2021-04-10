@@ -2,8 +2,8 @@
  
  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi 👋, I'm Bilal Yasar...</h1>
   
- <p align="center"
-    <a href="https://user-images.githubusercontent.com/49458946/114265999-85c4af00-99fc-11eb-9ffa-5338649cbccf.png" alt="VIEW"></a>
+  <p align="center"
+    <a href="https://github.com/blalyasar"><img src="https://user-images.githubusercontent.com/49458946/114265999-85c4af00-99fc-11eb-9ffa-5338649cbccf.png" alt="VIEW"></a>
   </p>
   
    <p align="center"
