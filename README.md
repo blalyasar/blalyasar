@@ -126,31 +126,55 @@ Başlangıç Düzeyi Kullanılan Programlar
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
       <b>Tüm Repo isimleri (a-z) </b>
-      <i>(Genişletmek İçin Tıklayın !)</i>
+      <i>(Genişletmek İçin Tıklayınız !)</i>
     </summary>
 awesome-podcasts
+ 
 basic-weather-app
+
 blalyasar
+
 Camera-app-with-Qt-and-Opencv
+
 Covid19_liveTracker
+
 flask-api-examples
+
 GlistEngine
+
 google-github-analysis
+
 GURAY-YILDIRIM-YAZILIMCILARA-TAVS-YE-TWEETLERINI-CEKME
+
 HeadPoseEstimation
+
 hospitals-location-tr
+
 my_blog_codes
+
 pandas_for_everyone
+
 pypersongraph
+
 pyside-opencv
+
 pyside-sprint-animate
+
 Python-ile-Kullanici-Tweetlerini-Cekmek
+
 python-kivy-cardgame
+
 Python-Pyqt5-Periodic-Table
+
 python-pyqt5-sqlite3-arduino-ldr
+
 Python_Pyqt5_ile-_translate_ceviri_Uygulamasi_Yapimi
+
 ram_cpu_measure
+
 tensorflow_object_counting_api
+
 turkey-7region-colormap
+
 Udemy_STM32
- </details>
+</details>
