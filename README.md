@@ -121,3 +121,36 @@ Başlangıç Düzeyi Kullanılan Programlar
 ![proteus](https://img.shields.io/badge/Proteus-1b8bb4?style=for-the-badge&logo=proteus&Color=white)![AUTOCAD](https://img.shields.io/badge/AUTOCAD-1b8bb4?style=for-the-badge&logo=AUTOCAD&Color=white)![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-1b8bb4?style=for-the-badge&logo=SOLIDWORKS&Color=white)![ANSYS](https://img.shields.io/badge/ANSYS-1b8bb4?style=for-the-badge&logo=ANSYS&Color=white)![MİKROC](https://img.shields.io/badge/mikroc-1b8bb4?style=for-the-badge&logo=mikroc&Color=white)![fusion360](https://img.shields.io/badge/fusion360-1b8bb4?style=for-the-badge&logo=fusion360&Color=white)![cloudera-hive](https://img.shields.io/badge/clouderahive-1b8bb4?style=for-the-badge&logo=hive&Color=white)
  
   </details>
+
+
+  <details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>Tüm Repo isimleri (a-z) </b>
+      <i>(Genişletmek İçin Tıklayın !)</i>
+    </summary>
+awesome-podcasts
+basic-weather-app
+blalyasar
+Camera-app-with-Qt-and-Opencv
+Covid19_liveTracker
+flask-api-examples
+GlistEngine
+google-github-analysis
+GURAY-YILDIRIM-YAZILIMCILARA-TAVS-YE-TWEETLERINI-CEKME
+HeadPoseEstimation
+hospitals-location-tr
+my_blog_codes
+pandas_for_everyone
+pypersongraph
+pyside-opencv
+pyside-sprint-animate
+Python-ile-Kullanici-Tweetlerini-Cekmek
+python-kivy-cardgame
+Python-Pyqt5-Periodic-Table
+python-pyqt5-sqlite3-arduino-ldr
+Python_Pyqt5_ile-_translate_ceviri_Uygulamasi_Yapimi
+ram_cpu_measure
+tensorflow_object_counting_api
+turkey-7region-colormap
+Udemy_STM32
+ </details>
