@@ -125,9 +125,10 @@ Başlangıç Düzeyi Kullanılan Programlar
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>Tüm Repo isimleri (a-z) </b>
+      <b>Tüm public Repo isimleri (a-z) </b>
       <i>(Genişletmek İçin Tıklayınız !)</i>
     </summary>
+ 
 awesome-podcasts
  
 basic-weather-app
