@@ -71,8 +71,14 @@
 <p align="left"> 
 <a href="https://code.visualstudio.com/" rel="nofollow">
 <img  alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px" height="40"/></a>
+
 <a href="https://jupyter.org/" rel="nofollow">
 <img  alt="Jupyter Interactive Notebook"  src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" width="40px" height="40"/></a>
+
+<a href="https://github.com/qt-creator" rel="nofollow">
+ <img alt="Qt Cretor Ide" src="https://avatars.githubusercontent.com/u/30841581?s=200&v=4" width="40px" height="40px"/>
+ </a>
+ 
 </p>
 
 
