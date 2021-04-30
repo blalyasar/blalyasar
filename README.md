@@ -20,7 +20,7 @@
   </p>
 
 ##### I’m currently working on 
-[//]: # "Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
+[//]: # "Python, Linux, Fedora, OpenCv, PyQt, PySide,  QML, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
  <p align="left">
 <a href="https://www.python.org/" rel="nofollow"> 
 <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/></a>
@@ -34,8 +34,7 @@
  
 <a href="https://www.riverbankcomputing.com/software/pyqt/" rel="nofollow">
 <img alt="pyqt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/160px-Python_and_Qt.svg.png" width="40" height="40"/> </a>
-<a href="https://www.qt.io/" rel="nofollow">
-<img alt="qt" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" width="40" height="40"/> </a>
+
 <a href="https://www.qt.io/" rel="nofollow">
 <img alt="qml" src="https://avatars2.githubusercontent.com/u/8034039?v=3&s=400.png"  width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" rel="nofollow">
@@ -55,10 +54,14 @@
 </p>
 
 ##### I’m currently learning
-[//]: # " CPP, Flask, Tensorflow, Folium, BashProgramming"
+[//]: # " CPP, Qt, Flask, Tensorflow "
 <p align="left">
 <a href="https://www.cplusplus.com/" rel="nofollow">
 <img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="40" height="40"/> </a>
+
+<a href="https://www.qt.io/" rel="nofollow">
+<img alt="qt" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" width="40" height="40"/> </a>
+
 <a href="https://flask.palletsprojects.com/en/1.1.x/#" rel="nofollow">
 <img alt="Flask"  src="https://raw.githubusercontent.com/pallets/flask/master/docs/_static/flask-logo.png" width="40px" height="40"/></a>
 <a href="https://www.tensorflow.org/" rel="nofollow">
