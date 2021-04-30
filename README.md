@@ -27,7 +27,7 @@
 <a href="https://www.linux.org/" rel="nofollow">
 <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40"></a>
 <a href="https://getfedora.org/" rel="nofollow">
-<img  alt="fedoralinux" src="https://start.fedoraproject.org/static/images/fedora-logo.png" width="40" height="40" /></a>
+<img  alt="fedoralinux" src="https://start.fedoraproject.org/static/images/fedora-logo.png" width="50" height="40" /></a>
  <a href="https://opencv.org/" rel="nofollow">
 <img alt="opencv" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"  width="40" height="40"/> </a>
  
