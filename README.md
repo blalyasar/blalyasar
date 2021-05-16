@@ -144,7 +144,55 @@ Başlangıç Düzeyi Kullanılan Programlar
       <i>(Genişletmek İçin Tıklayınız !)</i>
     </summary>
  
+['awesome-podcasts', 
 
+'basic-weather-app', 
+
+'blalyasar', 
+
+'Camera-app-with-Qt-and-Opencv', 
+
+'Covid19_liveTracker', 
+
+'flask-api-examples', 
+
+'google-github-analysis', 
+
+'HeadPoseEstimation', 
+
+'hospitals-location-tr', 
+
+'my_blog_codes', 
+
+'pandas_for_everyone', 
+
+'pypersongraph', 
+
+'pyside-opencv', 
+
+'pyside-sprint-animate', 
+
+'Python-ile-Kullanici-Tweetlerini-Cekmek',
+
+'python-kivy-cardgame', 
+
+'python-pyqt5-ceviri-uygulamasi', 
+
+'Python-Pyqt5-Periodic-Table', 
+
+'python-pyqt5-sqlite3-arduino-ldr', 
+
+'ram_cpu_measure', 
+
+'tensorflow_object_counting_api', 
+
+'tldr', 'turkey-7region-colormap', 
+
+'twitter-profile-tweet-scrape', 
+
+'u2net-image-background-remove', 
+
+'Udemy_STM32']
 
 
 </details>
