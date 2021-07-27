@@ -19,8 +19,11 @@
   </p>
 
 ##### I’m currently working on 
-[//]: # "Python, Linux, Fedora, OpenCv, PyQt, PySide, Keras, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
+[//]: # "Flutter, Python, Linux, Fedora, OpenCv, PyQt, PySide, Keras, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
  <p align="left">
+ < 
+  https://img.shields.io/badge/flutter-1b8bb4?style=for-the-badge&logo=flutter&logoColor=white
+                                                    
 <a href="https://www.python.org/" rel="nofollow"> 
 <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="45" height="45"/></a>
 <a href="https://www.linux.org/" rel="nofollow">
@@ -56,12 +59,11 @@
 </p>
 
 ##### I’m currently learning
-[//]: # " CPP, Qt, Qml, Flask, Tensorflow"
+[//]: # " CPP, Qt, Qml, Flask, Tensorflow Flutter"
 <p align="left">
 
 <a href="https://www.cplusplus.com/" rel="nofollow">
 <img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="45" height="45"/> </a>
-
 
 <a href="https://www.qt.io/" rel="nofollow">
 <img alt="qml" src="https://avatars2.githubusercontent.com/u/8034039?v=3&s=400.png"  width="45" height="45"/></a>
@@ -117,7 +119,7 @@
     </summary>
 
 
-  ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-![C](https://img.shields.io/badge/C-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![fedora](https://img.shields.io/badge/fedora-1b8bb4?style=for-the-badge&logo=fedora&logoColor=white)-![qml](https://img.shields.io/badge/qml-1b8bb4?style=for-the-badge&logo=qt&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![fedora](https://img.shields.io/badge/fedora-1b8bb4?style=for-the-badge&logo=fedora&logoColor=white)-![flutter]([Flutter](https://img.shields.io/badge/flutter-1b8bb4?style=for-the-badge&logo=flutter&logoColor=white)-![qml](https://img.shields.io/badge/qml-1b8bb4?style=for-the-badge&logo=qt&logoColor=white)
   
   ![pyqt](https://img.shields.io/badge/pyqt-1b8bb4?style=for-the-badge&logo=pyqt&logoColor=white)-![pyside](https://img.shields.io/badge/pyside-1b8bb4?style=for-the-badge&logo=pyside&logoColor=white)-![qt](https://img.shields.io/badge/qt-1b8bb4?style=for-the-badge&logo=qt&Color=white)
 
