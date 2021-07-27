@@ -19,10 +19,8 @@
   </p>
 
 ##### I’m currently working on 
-[//]: # "Flutter, Python, Linux, Fedora, OpenCv, PyQt, PySide, Keras, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
+[//]: # " Python, Linux, Fedora, OpenCv, Flutter, PyQt, PySide, Keras, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
  <p align="left">
-<a href="https://flutter.dev/" rel="nofollow"> 
-<img alt="python" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="45" height="45"/></a>
                                                     
 <a href="https://www.python.org/" rel="nofollow"> 
 <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="45" height="45"/></a>
@@ -32,7 +30,8 @@
 <img  alt="fedoralinux" src="https://start.fedoraproject.org/static/images/fedora-logo.png" width="55" height="45" /></a>
  <a href="https://opencv.org/" rel="nofollow">
 <img alt="opencv" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"  width="45" height="45"/> </a>
- 
+ <a href="https://flutter.dev/" rel="nofollow"> 
+<img alt="flutter" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="45" height="45"/></a>
  
 <a href="https://www.riverbankcomputing.com/software/pyqt/" rel="nofollow">
 <img alt="pyqt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/160px-Python_and_Qt.svg.png" width="45" height="45"/> </a>
