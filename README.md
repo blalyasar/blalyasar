@@ -21,8 +21,8 @@
 ##### I’m currently working on 
 [//]: # "Flutter, Python, Linux, Fedora, OpenCv, PyQt, PySide, Keras, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
  <p align="left">
- < 
-  https://img.shields.io/badge/flutter-1b8bb4?style=for-the-badge&logo=flutter&logoColor=white
+<a href="https://flutter.dev/" rel="nofollow"> 
+<img alt="python" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="45" height="45"/></a>
                                                     
 <a href="https://www.python.org/" rel="nofollow"> 
 <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="45" height="45"/></a>
