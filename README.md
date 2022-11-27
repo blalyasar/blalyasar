@@ -76,6 +76,20 @@
 <img  alt="seaborn" src="https://raw.githubusercontent.com/mwaskom/seaborn/211cabb09bb9228635bdd80f74f7591d36d7b2a7/doc/_static/logo-wide-lightbg.svg" width="45" height="45"></a>
 <a href="https://plotly.com/" rel="nofollow">
 <img alt="plotly" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" width="45" height="45" /></a>
+
+[//]: # " CPP, Qt, Qml, Flask, Tensorflow Flutter"
+<p align="left">
+<a href="https://www.cplusplus.com/" rel="nofollow">
+<img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="45" height="45"/> </a>
+<a href="https://www.qt.io/" rel="nofollow">
+<img alt="qml" src="https://avatars2.githubusercontent.com/u/8034039?v=3&s=400.png"  width="45" height="45"/></a>
+<a href="https://www.qt.io/" rel="nofollow">
+<img alt="qt" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" width="45" height="45"/> </a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/#" rel="nofollow">
+<img alt="Flask"  src="https://raw.githubusercontent.com/pallets/flask/master/docs/_static/flask-logo.png" width="45px" height="45"/></a>
+<a href="https://www.tensorflow.org/" rel="nofollow">
+<img alt="Tensorflow"  src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" width="45px" height="45"/></a>
+
 </p>
  
   
