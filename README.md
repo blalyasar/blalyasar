@@ -52,9 +52,6 @@
  <p>
  <a href="https://python-visualization.github.io/folium/" rel="nofollow">
 <img alt="folium" src="https://camo.githubusercontent.com/d7a1f81a2ee7576ab86720d9135ab3c915550e3945a7859f1c0300ab22ac1cec/687474703a2f2f707974686f6e2d76697375616c697a6174696f6e2e6769746875622e696f2f666f6c69756d2f5f696d616765732f666f6c69756d5f6c6f676f2e6a7067" width="45" height="45" "Folium" /></a>
-</p>
-
- <a href="https://opencv.org/" rel="nofollow">
 
  <a href="https://opencv.org/" rel="nofollow">
 <img alt="opencv" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"  width="45" height="45"/> </a>
@@ -79,7 +76,7 @@
 <img  alt="seaborn" src="https://raw.githubusercontent.com/mwaskom/seaborn/211cabb09bb9228635bdd80f74f7591d36d7b2a7/doc/_static/logo-wide-lightbg.svg" width="45" height="45"></a>
 <a href="https://plotly.com/" rel="nofollow">
 <img alt="plotly" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" width="45" height="45" /></a>
-
+</p>
  
   
 ##### I’m currently learning
