@@ -45,12 +45,10 @@
 <a href="https://getfedora.org/" rel="nofollow">
 <img  alt="fedoralinux" src="https://start.fedoraproject.org/static/images/fedora-logo.png" width="55" height="45" /></a>
  <a href="https://opencv.org/" rel="nofollow">
- 
-<a href="https://getfedora.org/" rel="nofollow">
-<img  alt="fedoralinux" src="https://start.fedoraproject.org/static/images/fedora-logo.png" width="55" height="45" /></a>
+
  <a href="https://opencv.org/" rel="nofollow">
- 
 <img alt="opencv" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"  width="45" height="45"/> </a>
+  
  <a href="https://flutter.dev/" rel="nofollow"> 
 <img alt="flutter" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="45" height="45"/></a>
  
