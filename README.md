@@ -20,16 +20,36 @@
   </p>
 
 ##### I’m currently working on 
-[//]: # " Python, Linux, Fedora, OpenCv, Flutter, PyQt, PySide, Keras, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
+[//]: # "PureStorage, Netapp, Veeam, Hitachi, Hpe3par Python, Linux, Debian, Fedora, OpenCv, Flutter, PyQt, PySide, Keras, SQLite, Pandas, Matplotlib, Seaborn, PLotly"
  <p align="left">
-                                                    
+<a href="https://github.com/NetApp" rel="nofollow"> 
+<img alt="netapp" src="https://avatars.githubusercontent.com/u/370544?s=200&v=4" width="45" height="45"/></a>
+
+<a href="https://github.com/PureStorage-OpenConnect" rel="nofollow"> 
+<img alt="purestorage" src="https://www.purestorage.com/content/dam/purestorage/nav/pure-logo.svg.imgo.svg" width="45" height="45"/></a>
+
+<a href="https://github.com/HewlettPackard" rel="nofollow"> 
+<img alt="hpe3par" src="https://avatars.githubusercontent.com/u/6004705?s=200&v=4" width="45" height="45"/></a>
+
+<a href="https://www.veeam.com/" rel="nofollow"> 
+<img alt="veeam" src="https://img.veeam.com/blog/wp-content/uploads/2021/07/07214320/jb-VSC-Blog-32110-rule-for-today-and-tomorrow-editorial-review-compelte-figA.jpg" width="45" height="45"/></a>
+
+<a href="https://www.hitachivantara.com/en-us/home.html" rel="nofollow"> 
+<img alt="hitachi" src="https://mma.prnewswire.com/media/1157805/Hitachi_Vantara_Logo.jpg" width="45" height="45"/></a>
+
 <a href="https://www.python.org/" rel="nofollow"> 
 <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="45" height="45"/></a>
-<a href="https://www.linux.org/" rel="nofollow">
-<img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="45" height="45"></a>
+<a href="https://www.debian.org/" rel="nofollow">
+<img  alt="debian" src="https://www.debian.org/Pics/debian-logo-1024x576.png" width="45" height="45"></a>
+
 <a href="https://getfedora.org/" rel="nofollow">
 <img  alt="fedoralinux" src="https://start.fedoraproject.org/static/images/fedora-logo.png" width="55" height="45" /></a>
  <a href="https://opencv.org/" rel="nofollow">
+ 
+<a href="https://getfedora.org/" rel="nofollow">
+<img  alt="fedoralinux" src="https://start.fedoraproject.org/static/images/fedora-logo.png" width="55" height="45" /></a>
+ <a href="https://opencv.org/" rel="nofollow">
+ 
 <img alt="opencv" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"  width="45" height="45"/> </a>
  <a href="https://flutter.dev/" rel="nofollow"> 
 <img alt="flutter" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="45" height="45"/></a>
