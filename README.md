@@ -44,6 +44,16 @@
 
 <a href="https://getfedora.org/" rel="nofollow">
 <img  alt="fedoralinux" src="https://start.fedoraproject.org/static/images/fedora-logo.png" width="55" height="45" /></a>
+ </p>
+ 
+
+
+ #####  I’m before worked on
+ <p>
+ <a href="https://python-visualization.github.io/folium/" rel="nofollow">
+<img alt="folium" src="https://camo.githubusercontent.com/d7a1f81a2ee7576ab86720d9135ab3c915550e3945a7859f1c0300ab22ac1cec/687474703a2f2f707974686f6e2d76697375616c697a6174696f6e2e6769746875622e696f2f666f6c69756d2f5f696d616765732f666f6c69756d5f6c6f676f2e6a7067" width="45" height="45" "Folium" /></a>
+</p>
+
  <a href="https://opencv.org/" rel="nofollow">
 
  <a href="https://opencv.org/" rel="nofollow">
@@ -58,8 +68,6 @@
 <a href="https://keras.io/" rel="nofollow">
 <img alt="pyqt" src="https://keras.io/img/logo.png" width="45" height="45"/> </a>
 
-
-
 <a href="https://www.sqlite.org/" rel="nofollow">
 <img alt="SQLite" src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" width="45" height="45" />
 </a>
@@ -72,27 +80,15 @@
 <a href="https://plotly.com/" rel="nofollow">
 <img alt="plotly" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" width="45" height="45" /></a>
 
-<a href="https://python-visualization.github.io/folium/" rel="nofollow">
-<img alt="folium" src="https://camo.githubusercontent.com/d7a1f81a2ee7576ab86720d9135ab3c915550e3945a7859f1c0300ab22ac1cec/687474703a2f2f707974686f6e2d76697375616c697a6174696f6e2e6769746875622e696f2f666f6c69756d2f5f696d616765732f666f6c69756d5f6c6f676f2e6a7067" width="45" height="45" "Folium" /></a>
-</p>
-
+ 
+  
 ##### I’m currently learning
-[//]: # " CPP, Qt, Qml, Flask, Tensorflow Flutter"
+[//]: # " BASH SCRIPTING "
 <p align="left">
 
-<a href="https://www.cplusplus.com/" rel="nofollow">
-<img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="45" height="45"/> </a>
-
-<a href="https://www.qt.io/" rel="nofollow">
-<img alt="qml" src="https://avatars2.githubusercontent.com/u/8034039?v=3&s=400.png"  width="45" height="45"/></a>
-
-<a href="https://www.qt.io/" rel="nofollow">
-<img alt="qt" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" width="45" height="45"/> </a>
-
-<a href="https://flask.palletsprojects.com/en/1.1.x/#" rel="nofollow">
-<img alt="Flask"  src="https://raw.githubusercontent.com/pallets/flask/master/docs/_static/flask-logo.png" width="45px" height="45"/></a>
-<a href="https://www.tensorflow.org/" rel="nofollow">
-<img alt="Tensorflow"  src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" width="45px" height="45"/></a>
+<a href="https://github.com/Bash-it" rel="nofollow">
+<img alt="c++" src="https://avatars.githubusercontent.com/u/11575812?s=200&v=4" width="45" height="45"/> </a>
+ 
 
 
 
@@ -101,16 +97,11 @@
 <a href="https://code.visualstudio.com/" rel="nofollow">
 <img  alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45px" height="45"/></a>
 
- <a href="https://developer.android.com/" rel="nofollow">
-<img  alt="ANDROID STUDIO"  src="https://developer.android.com/images/home/billboard-bg.svg" width="45px" height="45"/></a>
+ <a href="[https://code.visualstudio.com/](https://www.vim.org/)" rel="nofollow">
+<img  alt="vim"  src="https://avatars.githubusercontent.com/u/11618545?s=200&v=4" width="45px" height="45"/></a>
  
 <a href="https://jupyter.org/" rel="nofollow">
 <img  alt="Jupyter Interactive Notebook"  src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" width="45px" height="45"/></a>
-
-<a href="https://github.com/qt-creator" rel="nofollow">
- <img alt="Qt Cretor Ide" src="https://avatars.githubusercontent.com/u/30841581?s=200&v=4" width="45px" height="45px"/>
- </a>
- 
 </p>
 
 
