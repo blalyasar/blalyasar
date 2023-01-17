@@ -16,11 +16,11 @@
   </p>
 
  
- ![Purestorage](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=purestorage&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-
- ![Netapp](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=Netapp&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-
- ![Veeam](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=Veeam&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-
-  ![Hpe](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=Hpe&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-
- 
+ ![Purestorage](https://img.shields.io/badge/purestorage-1b8bb4?style=for-the-badge&logo=purestorage&logoColor=white)-
+ ![Netapp](https://img.shields.io/badge/netapp-1b8bb4?style=for-the-badge&logo=Netapp&logoColor=white)-
+ ![Veeam](https://img.shields.io/badge/veeam-1b8bb4?style=for-the-badge&logo=Veeam&logoColor=white)-
+ ![Hpe](https://img.shields.io/badge/hpe-1b8bb4?style=for-the-badge&logo=Hpe&logoColor=white)-
+  ![Hitachi](https://img.shields.io/badge/hitachi-1b8bb4?style=for-the-badge&logo=Hpe&logoColor=white)-
 
  
  ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![fedora](https://img.shields.io/badge/fedora-1b8bb4?style=for-the-badge&logo=fedora&logoColor=white)-![Flutter](https://img.shields.io/badge/flutter-1b8bb4?style=for-the-badge&logo=flutter&logoColor=white)-![qml](https://img.shields.io/badge/qml-1b8bb4?style=for-the-badge&logo=qt&logoColor=white)
