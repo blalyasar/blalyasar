@@ -56,11 +56,10 @@ Başlangıç Düzeyi Kullanılan Programlar
   
   ![blalyasar'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&layout=compact&theme=dark)
 
+ </details>
 
-   
 
-
-  <details align="center">
+<details align="center">
     <summary style="font-weight: bold; font-size: 18px">
       <b>Tüm public Repo isimleri (a-z) </b>
       <i>(Genişletmek İçin Tıklayınız !)</i>
