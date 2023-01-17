@@ -15,20 +15,24 @@
 
   </p>
 
-##### I’m currently working on 
+##### I’m currently working on
+ ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![bash scripting](https://img.shields.io/badge/bash-1b8bb4?style=for-the-badge&logo=bash&logoColor=white)
+ 
  ![Purestorage](https://img.shields.io/badge/purestorage-1b8bb4?style=for-the-badge&logo=purestorage&logoColor=white)-
  ![Netapp](https://img.shields.io/badge/netapp-1b8bb4?style=for-the-badge&logo=Netapp&logoColor=white)-
  ![Veeam](https://img.shields.io/badge/veeam-1b8bb4?style=for-the-badge&logo=Veeam&logoColor=white)-
  ![Hpe](https://img.shields.io/badge/hpe-1b8bb4?style=for-the-badge&logo=Hpe&logoColor=white)-
  ![Hitachi](https://img.shields.io/badge/hitachi-1b8bb4?style=for-the-badge&logo=Hitachi&logoColor=white)-
- ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![bash scripting](https://img.shields.io/badge/bash-1b8bb4?style=for-the-badge&logo=bash&logoColor=white)
  
  
-##### I’m before worked on 
+ 
+##### I’m before worked on
+ ![opencv](https://img.shields.io/badge/opencv-1b8bb4?style=for-the-badge&logo=opencv&logoColor=white)-![numpy](https://img.shields.io/badge/numpy-1b8bb4?style=for-the-badge&logo=numpy&logoColor=white)-![pandas](https://img.shields.io/badge/pandas-1b8bb4?style=for-the-badge&logo=pandas&logoColor=white)-![scipy](https://img.shields.io/badge/scipy-1b8bb4?style=for-the-badge&logo=scipy&logoColor=white)
+ 
+ 
  ![Cpp](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)--![qt](https://img.shields.io/badge/qt-1b8bb4?style=for-the-badge&logo=qt&Color=white)-![qml](https://img.shields.io/badge/qml-1b8bb4?style=for-the-badge&logo=qt&logoColor=white)-![pyqt](https://img.shields.io/badge/pyqt-1b8bb4?style=for-the-badge&logo=pyqt&logoColor=white)-![pyside](https://img.shields.io/badge/pyside-1b8bb4?style=for-the-badge&logo=pyside&logoColor=white)
-
-![opencv](https://img.shields.io/badge/opencv-1b8bb4?style=for-the-badge&logo=opencv&logoColor=white)-![numpy](https://img.shields.io/badge/numpy-1b8bb4?style=for-the-badge&logo=numpy&logoColor=white)-![pandas](https://img.shields.io/badge/pandas-1b8bb4?style=for-the-badge&logo=pandas&logoColor=white)-![scipy](https://img.shields.io/badge/scipy-1b8bb4?style=for-the-badge&logo=scipy&logoColor=white)-
-  
+ 
+ 
 ![tensorflow](https://img.shields.io/badge/tensorflow-1b8bb4?style=for-the-badge&logo=tensorflow&logoColor=white)-![keras](https://img.shields.io/badge/keras-1b8bb4?style=for-the-badge&logo=keras&logoColor=white)-![scikitlearn](https://img.shields.io/badge/scikitlearn-1b8bb4?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/flutter-1b8bb4?style=for-the-badge&logo=flutter&logoColor=white)-![flask](https://img.shields.io/badge/flask-1b8bb4?style=for-the-badge&logo=flask&logoColor=white)-![folium](https://img.shields.io/badge/folium-1b8bb4?style=for-the-badge&logo=folium&logoColor=white)-![searborn](https://img.shields.io/badge/seaborn-1b8bb4?style=for-the-badge&logo=seaborn&logoColor=white)-![plotly](https://img.shields.io/badge/plotly-1b8bb4?style=for-the-badge&logo=plotly&logoColor=white)
