@@ -27,11 +27,11 @@
   
   ![pyqt](https://img.shields.io/badge/pyqt-1b8bb4?style=for-the-badge&logo=pyqt&logoColor=white)-![pyside](https://img.shields.io/badge/pyside-1b8bb4?style=for-the-badge&logo=pyside&logoColor=white)-![qt](https://img.shields.io/badge/qt-1b8bb4?style=for-the-badge&logo=qt&Color=white)-![qml](https://img.shields.io/badge/qml-1b8bb4?style=for-the-badge&logo=qt&logoColor=white)
 
-![opencv](https://img.shields.io/badge/opencv-1b8bb4?style=for-the-badge&logo=opencv&logoColor=white)-![numpy](https://img.shields.io/badge/numpy-1b8bb4?style=for-the-badge&logo=numpy&logoColor=white)-![pandas](https://img.shields.io/badge/pandas-1b8bb4?style=for-the-badge&logo=pandas&logoColor=white)-![searborn](https://img.shields.io/badge/seaborn-1b8bb4?style=for-the-badge&logo=seaborn&logoColor=white)-![plotly](https://img.shields.io/badge/plotly-1b8bb4?style=for-the-badge&logo=plotly&logoColor=white)-![scipy](https://img.shields.io/badge/scipy-1b8bb4?style=for-the-badge&logo=scipy&logoColor=white)-
+![opencv](https://img.shields.io/badge/opencv-1b8bb4?style=for-the-badge&logo=opencv&logoColor=white)-![numpy](https://img.shields.io/badge/numpy-1b8bb4?style=for-the-badge&logo=numpy&logoColor=white)-![pandas](https://img.shields.io/badge/pandas-1b8bb4?style=for-the-badge&logo=pandas&logoColor=white)-![scipy](https://img.shields.io/badge/scipy-1b8bb4?style=for-the-badge&logo=scipy&logoColor=white)-
   
 ![tensorflow](https://img.shields.io/badge/tensorflow-1b8bb4?style=for-the-badge&logo=tensorflow&logoColor=white)-![keras](https://img.shields.io/badge/keras-1b8bb4?style=for-the-badge&logo=keras&logoColor=white)-![scikitlearn](https://img.shields.io/badge/scikitlearn-1b8bb4?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![flask](https://img.shields.io/badge/flask-1b8bb4?style=for-the-badge&logo=flask&logoColor=white)-![folium](https://img.shields.io/badge/folium-1b8bb4?style=for-the-badge&logo=folium&logoColor=white)
+![flask](https://img.shields.io/badge/flask-1b8bb4?style=for-the-badge&logo=flask&logoColor=white)-![folium](https://img.shields.io/badge/folium-1b8bb4?style=for-the-badge&logo=folium&logoColor=white)-![searborn](https://img.shields.io/badge/seaborn-1b8bb4?style=for-the-badge&logo=seaborn&logoColor=white)-![plotly](https://img.shields.io/badge/plotly-1b8bb4?style=for-the-badge&logo=plotly&logoColor=white)
  
  ![sqlite](https://img.shields.io/badge/sqlite-1b8bb4?style=for-the-badge&logo=sqlite&logoColor=white)-![mysql](https://img.shields.io/badge/mysql-1b8bb4?style=for-the-badge&logo=mysql&logoColor=white)-![postgresql](https://img.shields.io/badge/postgresql-1b8bb4?style=for-the-badge&logo=postgresql&logoColor=white)-
  
