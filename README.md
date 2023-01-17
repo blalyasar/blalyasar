@@ -16,14 +16,15 @@
   </p>
 
  
+##### I’m currently working on 
  ![Purestorage](https://img.shields.io/badge/purestorage-1b8bb4?style=for-the-badge&logo=purestorage&logoColor=white)-
  ![Netapp](https://img.shields.io/badge/netapp-1b8bb4?style=for-the-badge&logo=Netapp&logoColor=white)-
  ![Veeam](https://img.shields.io/badge/veeam-1b8bb4?style=for-the-badge&logo=Veeam&logoColor=white)-
  ![Hpe](https://img.shields.io/badge/hpe-1b8bb4?style=for-the-badge&logo=Hpe&logoColor=white)-
  ![Hitachi](https://img.shields.io/badge/hitachi-1b8bb4?style=for-the-badge&logo=Hitachi&logoColor=white)-
-
+ ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![bash scripting](https://img.shields.io/badge/bash-1b8bb4?style=for-the-badge&logo=bash&logoColor=white)
  
- ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-![fedora](https://img.shields.io/badge/fedora-1b8bb4?style=for-the-badge&logo=fedora&logoColor=white)-![Flutter](https://img.shields.io/badge/flutter-1b8bb4?style=for-the-badge&logo=flutter&logoColor=white)
+ -![C](https://img.shields.io/badge/Cpp-1b8bb4?style=for-the-badge&logo=c&logoColor=white)-![fedora](https://img.shields.io/badge/fedora-1b8bb4?style=for-the-badge&logo=fedora&logoColor=white)-![Flutter](https://img.shields.io/badge/flutter-1b8bb4?style=for-the-badge&logo=flutter&logoColor=white)
   
   ![pyqt](https://img.shields.io/badge/pyqt-1b8bb4?style=for-the-badge&logo=pyqt&logoColor=white)-![pyside](https://img.shields.io/badge/pyside-1b8bb4?style=for-the-badge&logo=pyside&logoColor=white)-![qt](https://img.shields.io/badge/qt-1b8bb4?style=for-the-badge&logo=qt&Color=white)-![qml](https://img.shields.io/badge/qml-1b8bb4?style=for-the-badge&logo=qt&logoColor=white)
 
