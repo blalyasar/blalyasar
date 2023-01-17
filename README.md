@@ -56,18 +56,8 @@ Başlangıç Düzeyi Kullanılan Programlar
   
   ![blalyasar'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=blalyasar&layout=compact&theme=dark)
 
-  </details>
 
- 
-   <details align="center">
-    <summary style="font-weight: bold; font-size: 18px">
-      <b>İlgi Alanlarım</b>
-      <i>(Genişletmek İçin Tıklayın !)</i>
-    </summary>
-
-
-  
-  </details>
+   
 
 
   <details align="center">
