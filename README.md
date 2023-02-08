@@ -18,7 +18,6 @@
 ##### I’m currently working on
  ![Python](https://img.shields.io/badge/python-1b8bb4?style=for-the-badge&logo=python&logoColor=white)-![linux](https://img.shields.io/badge/linux-1b8bb4?style=for-the-badge&logo=linux&logoColor=white)-![bash scripting](https://img.shields.io/badge/bash-1b8bb4?style=for-the-badge&logo=bash&logoColor=white)
  
- ![Minio](https://img.shields.io/badge/minio-1b8bb4?style=for-the-badge&logo=minio&logoColor=white)-
  ![Purestorage](https://img.shields.io/badge/purestorage-1b8bb4?style=for-the-badge&logo=purestorage&logoColor=white)-
  ![Netapp](https://img.shields.io/badge/netapp-1b8bb4?style=for-the-badge&logo=Netapp&logoColor=white)
  
