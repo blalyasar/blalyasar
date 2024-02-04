@@ -17,7 +17,6 @@
   </p>
 
  ##### I’m currently Learning
- https://img.shields.io/badge/golang-1b8bb4?style=for-the-badge&logo=go&logoColor=white)
  ![Golang](https://img.shields.io/badge/golang-1b8bb4?style=for-the-badge&logo=go&logoColor=white)-![Docker](https://img.shields.io/badge/docker-1b8bb4?style=for-the-badge&logo=docker&logoColor=white)-![NGİNX](https://img.shields.io/badge/nginx-1b8bb4?style=for-the-badge&logo=nginx&logoColor=white)
  
  
