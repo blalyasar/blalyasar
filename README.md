@@ -17,7 +17,12 @@
   </p>
 
  ##### I’m currently Learning
- ![Golang](https://img.shields.io/badge/golang-1b8bb4?style=for-the-badge&logo=go&logoColor=white)-![Docker](https://img.shields.io/badge/docker-1b8bb4?style=for-the-badge&logo=docker&logoColor=white)-![NGİNX](https://img.shields.io/badge/nginx-1b8bb4?style=for-the-badge&logo=nginx&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-1b8bb4?style=for-the-badge&logo=go&logoColor=white)-
+![Docker](https://img.shields.io/badge/docker-1b8bb4?style=for-the-badge&logo=docker&logoColor=white)-
+![NGİNX](https://img.shields.io/badge/nginx-1b8bb4?style=for-the-badge&logo=nginx&logoColor=white)-
+![APACHE](https://img.shields.io/badge/apache-1b8bb4?style=for-the-badge&logo=apache&logoColor=white)
+
+  
  
  
 
@@ -31,6 +36,12 @@
  ![Hitachi](https://img.shields.io/badge/hitachi-1b8bb4?style=for-the-badge&logo=Hitachi&logoColor=white)-
  ![Veeam](https://img.shields.io/badge/veeam-1b8bb4?style=for-the-badge&logo=Veeam&logoColor=white)
  
+##### I’m currently Managed Apps
+ ![3cx](https://img.shields.io/badge/3cx-1b8bb4?style=for-the-badge&logo=3cx&logoColor=white)
+ ![Nextcloud](https://img.shields.io/badge/Nextcloud-1b8bb4?style=for-the-badge&logo=nextcloud&logoColor=white)-
+ ![Zabbix](https://img.shields.io/badge/zabbix-1b8bb4?style=for-the-badge&logo=zabbix&logoColor=white)
+
+
  
 ##### I’m before worked on
  ![opencv](https://img.shields.io/badge/opencv-1b8bb4?style=for-the-badge&logo=opencv&logoColor=white)-![numpy](https://img.shields.io/badge/numpy-1b8bb4?style=for-the-badge&logo=numpy&logoColor=white)-![pandas](https://img.shields.io/badge/pandas-1b8bb4?style=for-the-badge&logo=pandas&logoColor=white)-![scipy](https://img.shields.io/badge/scipy-1b8bb4?style=for-the-badge&logo=scipy&logoColor=white)
@@ -45,7 +56,7 @@
  
  ![sqlite](https://img.shields.io/badge/sqlite-1b8bb4?style=for-the-badge&logo=sqlite&logoColor=white)-![mysql](https://img.shields.io/badge/mysql-1b8bb4?style=for-the-badge&logo=mysql&logoColor=white)-![postgresql](https://img.shields.io/badge/postgresql-1b8bb4?style=for-the-badge&logo=postgresql&logoColor=white)-
  
-Başlangıç Düzeyi Kullanılan Programlar
+Some Apps
 
 ![proteus](https://img.shields.io/badge/Proteus-1b8bb4?style=for-the-badge&logo=proteus&Color=white)![AUTOCAD](https://img.shields.io/badge/AUTOCAD-1b8bb4?style=for-the-badge&logo=AUTOCAD&Color=white)![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-1b8bb4?style=for-the-badge&logo=SOLIDWORKS&Color=white)![ANSYS](https://img.shields.io/badge/ANSYS-1b8bb4?style=for-the-badge&logo=ANSYS&Color=white)![MİKROC](https://img.shields.io/badge/mikroc-1b8bb4?style=for-the-badge&logo=mikroc&Color=white)![fusion360](https://img.shields.io/badge/fusion360-1b8bb4?style=for-the-badge&logo=fusion360&Color=white)![cloudera-hive](https://img.shields.io/badge/clouderahive-1b8bb4?style=for-the-badge&logo=hive&Color=white)![stm32](https://img.shields.io/badge/stm32-1b8bb4?style=for-the-badge&logo=stm32&Color=white)-
 
