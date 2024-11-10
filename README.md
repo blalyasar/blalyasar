@@ -40,6 +40,8 @@
  ![3cx](https://img.shields.io/badge/3cx-1b8bb4?style=for-the-badge&logo=3cx&logoColor=white)
  ![Nextcloud](https://img.shields.io/badge/Nextcloud-1b8bb4?style=for-the-badge&logo=nextcloud&logoColor=white)-
  ![Zabbix](https://img.shields.io/badge/zabbix-1b8bb4?style=for-the-badge&logo=zabbix&logoColor=white)
+ ![Osticket](https://img.shields.io/badge/osticket-1b8bb4?style=for-the-badge&logo=osticket&logoColor=white)
+
 
 
  
